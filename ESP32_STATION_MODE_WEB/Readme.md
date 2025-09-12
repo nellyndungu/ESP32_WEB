@@ -1,4 +1,4 @@
-ESP32 WEB USING STATION WiFi MODE
+# ESP32 WEB USING STATION WiFi MODE
 ## Overview
 In a nutshell, this project turns the ESP32 into a simple ticketing machine that runs entirely on a web page.
 The ESP32 itself hosts a small website where a user can enter their name and instantly receive a ticket. 
